@@ -168,16 +168,31 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 # 🌟 What I'm Currently Working On
 
-<img align="right" width="300" src="https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif"/>
+<table>
+<tr>
 
-- 🤖 Building **AI-powered SaaS applications**
-- 💻 Mastering **C++**, Data Structures & Algorithms
-- ⚙️ Developing scalable **Backend Systems**
-- 🌐 Creating modern **Full-Stack Applications**
-- ☁️ Exploring **AWS, GCP & Cloud AI**
-- 🧠 Learning **LLMs, RAG & Multi-Agent AI**
-- 🚀 Solving problems on **LeetCode**
-- 🌍 Contributing to **Open Source Projects**
+<td>
+
+### 🚀 Current Focus
+
+- 🤖 AI-powered SaaS Development
+- 💻 C++ & Advanced DSA
+- 🌐 Full-Stack Development
+- ☁️ Cloud Computing (AWS/GCP)
+- 🧠 LLMs & RAG
+- 🚀 Open Source Contributions
+
+</td>
+
+<td>
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="330"/>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
 ## ⏳ Coming Next...
