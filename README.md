@@ -156,6 +156,8 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 # 📚 Relevant Coursework
 
+<img align="right" width="300" src="https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif"/>
+
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - Operating Systems
@@ -167,8 +169,6 @@ Building scalable software, intelligent AI applications, and solving real-world 
 ---
 
 # 🌟 What I'm Currently Working On
-
-<img align="right" width="300" src="https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif"/>
 
 ```text
 ✔ AI SaaS Platform
@@ -389,9 +389,9 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 ### ♟️ Chess Champion
 
-- 🥇 1st Place (2023)
-- 🥇 1st Place (2024)
-- 🥈 2nd Place (2025)
+🥇 1st Place (2023)
+🥇 1st Place (2024)
+🥈 2nd Place (2025)
 
 </div>
 
