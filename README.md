@@ -186,7 +186,7 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 <td>
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="330"/>
+<img  width="300" src="https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif"/>
 
 </td>
 
