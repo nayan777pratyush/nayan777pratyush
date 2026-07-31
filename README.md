@@ -207,6 +207,8 @@ Building scalable software, intelligent AI applications, and solving real-world 
 - 📜 Certifications
 - 🤝 Connect Section
 
+---
+
   
 # 🚀 Featured Projects
 
