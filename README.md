@@ -175,18 +175,20 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 ### 🚀 Current Focus
 
-- 🤖 AI-powered SaaS Development
-- 💻 C++ & Advanced DSA
-- 🌐 Full-Stack Development
-- ☁️ Cloud Computing (AWS/GCP)
-- 🧠 LLMs & RAG
-- 🚀 Open Source Contributions
-
+- 🤖 Building **AI-powered SaaS applications**
+- 💻 Mastering **C++**, Data Structures & Algorithms
+- ⚙️ Developing scalable **Backend Systems**
+- 🌐 Creating modern **Full-Stack Applications**
+- ☁️ Exploring **AWS, GCP & Cloud AI**
+- 🧠 Learning **LLMs, RAG & Multi-Agent AI**
+- 🚀 Solving problems on **LeetCode**
+- 🌍 Contributing to **Open Source Projects**
+  
 </td>
 
 <td>
 
-<img  width="300" src="https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif"/>
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAd/coding.gif" width="320"/>
 
 </td>
 
