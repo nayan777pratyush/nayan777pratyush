@@ -156,8 +156,6 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 # 📚 Relevant Coursework
 
-<img align="right" width="300" src="https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif"/>
-
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - Operating Systems
@@ -170,15 +168,16 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 # 🌟 What I'm Currently Working On
 
-```text
-✔ AI SaaS Platform
-✔ Learning Advanced AI/ML
-✔ Scalable Backend Systems
-✔ Full Stack Development
-✔ Competitive Programming
-✔ Open Source Contributions
-```
+<img align="right" width="300" src="https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif"/>
 
+- 🤖 Building **AI-powered SaaS applications**
+- 💻 Mastering **C++**, Data Structures & Algorithms
+- ⚙️ Developing scalable **Backend Systems**
+- 🌐 Creating modern **Full-Stack Applications**
+- ☁️ Exploring **AWS, GCP & Cloud AI**
+- 🧠 Learning **LLMs, RAG & Multi-Agent AI**
+- 🚀 Solving problems on **LeetCode**
+- 🌍 Contributing to **Open Source Projects**
 ---
 
 ## ⏳ Coming Next...
