@@ -67,6 +67,8 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 # 💻 Programming Proficiency
 
+<img align="right" width="280" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+
 | Language |Proficiency |
 |----------|------------|
 | 🟦 **C++** | ⭐⭐⭐⭐☆ |
@@ -165,6 +167,8 @@ Building scalable software, intelligent AI applications, and solving real-world 
 ---
 
 # 🌟 What I'm Currently Working On
+
+<img align="right" width="300" src="https://media.tenor.com/DimzPZMypFcAAAAC/laptop.gif"/>
 
 ```text
 ✔ AI SaaS Platform
@@ -383,10 +387,11 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 🥈 **2nd Prize** — ALGORHYTHM 3.0 (HackerRank Coding Contest)
 
-### ♟️ **Chess Champion**
- -🥇 1st Place (2023)
- -🥇 1st Place (2024)
- -🥈 2nd Place (2025)
+### ♟️ Chess Champion
+
+- 🥇 1st Place (2023)
+- 🥇 1st Place (2024)
+- 🥈 2nd Place (2025)
 
 </div>
 
