@@ -1,14 +1,15 @@
 <div align="center">
   
-<img src="./assets/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="850"/>
-
-<br><br>
 
 # Hi there 👋, I'm Pratyush Bhattacharya
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Production-Ready+Applications;Learning+Something+New+Everyday;Open+Source+Learner" />
 
-<br>
+<br><br>
+
+<img src="./assets/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="850"/>
+
+<br><br>
 
 ### 💻 Software Engineer | 🌐 Full Stack Developer | 🤖 AI/ML Enthusiast
 
