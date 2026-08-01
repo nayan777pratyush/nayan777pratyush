@@ -32,6 +32,12 @@ Building scalable software, intelligent AI applications, and solving real-world 
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<br><br>
+
+<img src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
+<img src="./assets/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="450"/>
+
+
 </div>
 
 ---
