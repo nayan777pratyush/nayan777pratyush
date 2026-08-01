@@ -1,4 +1,8 @@
 <div align="center">
+  
+<img src="./assets/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="850"/>
+
+<br><br>
 
 # Hi there 👋, I'm Pratyush Bhattacharya
 
@@ -34,8 +38,8 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 <br><br>
 
-<img src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
-<img src="./assets/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="450"/>
+<img src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="850"/>
+
 
 
 </div>
