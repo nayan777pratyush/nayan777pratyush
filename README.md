@@ -416,11 +416,7 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 🥈 **2nd Prize** — ALGORHYTHM 3.0 (HackerRank Coding Contest)
 
-### ♟️ Chess Champion
-
-🥇 1st Place (2023)
-🥇 1st Place (2024)
-🥈 2nd Place (2025)
+♟️ Chess Champion — 🥇 1st Place (2023) 🥇 1st Place (2024) 🥈 2nd Place (2025)
 
 </div>
 
