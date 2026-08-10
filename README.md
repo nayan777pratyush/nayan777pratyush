@@ -304,9 +304,9 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nayan777pratyush&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nayan777pratyush&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nayan777pratyush&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayan777pratyush&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -348,11 +348,11 @@ Next.js • Prisma • PostgreSQL • Clerk
 <p align="center">
 
 <a href="https://github.com/nayan777pratyush/QuickAI">
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nayan777pratyush&repo=QuickAI&theme=github_dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=QuickAI&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/nayan777pratyush/MERN-Auth">
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nayan777pratyush&repo=MERN-Auth&theme=github_dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=MERN-Auth&theme=github_dark"/>
 </a>
 
 </p>
@@ -360,11 +360,11 @@ Next.js • Prisma • PostgreSQL • Clerk
 <p align="center">
 
 <a href="https://github.com/nayan777pratyush/MeetFlow-AI">
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nayan777pratyush&repo=MeetFlow-AI&theme=github_dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=MeetFlow-AI&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/nayan777pratyush/PratyushLMS.">
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nayan777pratyush&repo=PratyushLMS.&theme=github_dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=nayan777pratyush&repo=PratyushLMS.&theme=github_dark"/>
 </a>
 
 </p>
