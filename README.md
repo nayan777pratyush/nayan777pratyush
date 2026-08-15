@@ -167,6 +167,7 @@ Building scalable software, intelligent AI applications, and solving real-world 
 <p>
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,vscode,docker"/>
+<br>
 <img src="https://skillicons.dev/icons?i=aws,gcp"/>
 
 </p>
@@ -246,11 +247,11 @@ React.js • Node.js • Express.js • PostgreSQL • OpenAI API • Vertex AI 
 
 **Highlights**
 
-- 🚀 500+ AI requests/day
+- 🤖 AI-powered content and image generation
 - 📄 Multi-format document analysis
 - 💬 Streaming AI Chatbot
-- 🧠 Prompt Engineering
-- 📚 RAG-based Study Assistant
+- 📚 RAG-powered Study Assistant
+- 📊 AI-powered resume review & PPT generation
 
 </td>
 
@@ -266,11 +267,11 @@ React.js • Node.js • Express.js • MongoDB • JWT
 
 **Highlights**
 
-- 🔑 JWT Authentication
-- 👥 1000+ User Support
-- 🛡️ RBAC
-- 📧 Email OTP Verification
-- 🔒 Secure Password Reset
+- 🔑 JWT-based authentication
+- 📧 Email OTP verification
+- 🛡️ Role-Based Access Control (RBAC)
+- 🔒 Secure password reset
+- 🌐 Protected REST API architecture
 
 </td>
 
@@ -282,23 +283,41 @@ React.js • Node.js • Express.js • MongoDB • JWT
 
 ### 🎥 MeetFlow AI
 
-AI-powered video conferencing platform supporting real-time meetings, AI-generated summaries, screen sharing, and participant management.
+AI-powered video conferencing platform supporting real-time meetings, meeting intelligence, collaborative notes, and AI-assisted productivity.
 
 **⚡ Tech Stack**
 
 Next.js • TypeScript • WebRTC • Socket.IO • AI APIs
 
+**Highlights**
+
+- 🎥 Real-time video & audio meetings
+- 📝 Capture important notes during meetings
+- ⏰ Assign deadlines and action items
+- 🤖 AI chatbot for meeting assistance
+- 📚 Store and review meeting conversations
+- 🧠 AI-powered meeting summarization
+
 </td>
 
 <td width="50%">
 
-### 🎓 LMS Platform
+### 🎓 PratyushLMS. — LMS Platform
 
 Modern Learning Management System featuring authentication, dashboards, course management, progress tracking, and scalable backend architecture.
 
 **⚡ Tech Stack**
 
-Next.js • Prisma • PostgreSQL • Clerk
+Next.js • Prisma • PostgreSQL • Better-Auth
+
+**Highlights**
+
+- 🔐 Secure authentication & user management
+- 📚 Course creation and management
+- 🎓 Student enrollment & learning workflows
+- 📊 Personalized dashboards & progress tracking
+- 👨‍🏫 Instructor/course management features
+- 🗄️ Prisma-powered PostgreSQL backend
 
 </td>
 
@@ -438,7 +457,7 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 # 📚 Currently Learning
 
-<div align="center">
+<div align="left">
 
 | 🌱 Learning | 🚀 Goal |
 |------------|----------|
@@ -451,11 +470,6 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 </div>
 
----
-
-<div align="center">
-<img src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="850"/>
-</div>
 
 ---
 
@@ -496,6 +510,12 @@ Competitive Programming  ███████████████░░░�
 </div>
 
 > **Note:** This works after you configure the GitHub Action in your repository.
+
+---
+
+<div align="center">
+<img src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="850"/>
+</div>
 
 ---
 
