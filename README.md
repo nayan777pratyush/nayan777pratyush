@@ -491,9 +491,10 @@ Competitive Programming  ███████████████░░░�
 
 <div align="center">
 
-<img src="./assets/portfolio gif.html" width="850"/>
+<img src="./assets/developer-terminal.gif" width="850"/>
 
 </div>
+
 
 ---
 
