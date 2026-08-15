@@ -159,7 +159,7 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,vscode,docker,render,prisma"/>
 
 </p>
 
