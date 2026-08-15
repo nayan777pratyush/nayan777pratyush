@@ -119,7 +119,7 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma"/>
 
 </p>
 
@@ -159,7 +159,8 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,vscode,docker,render,prisma"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vercel,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp"/>
 
 </p>
 
@@ -397,14 +398,6 @@ Next.js • Prisma • PostgreSQL • Clerk
 
 ---
 
-## ⏳ Coming Next...
-
-- 🏆 Achievements
-- 📜 Certifications
-- 🐍 Contribution Snake
-- 🤝 Connect With Me
-- 💙 Professional Footer
-
 
 # 🏆 Achievements
 
@@ -490,6 +483,19 @@ Competitive Programming  ███████████████░░░�
 </div>
 
 > **Note:** This works after you configure the GitHub Action in your repository.
+
+---
+
+<!-- 🖥️ Developer Terminal -->
+<h2>💻 Developer Terminal</h2>
+
+<div align="center">
+
+<img src="./assets/portfolio gif.html" width="850"/>
+
+</div>
+
+---
 
 ---
 
