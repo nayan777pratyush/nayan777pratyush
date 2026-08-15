@@ -50,10 +50,6 @@ Building scalable software, intelligent AI applications, and solving real-world 
 
 <br><br>
 
-<img src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="850"/>
-
-
-
 </div>
 
 ---
@@ -453,6 +449,12 @@ Next.js • Prisma • PostgreSQL • Clerk
 | Generative AI | Production AI Applications |
 | Distributed Systems | Scalable Software |
 
+</div>
+
+---
+
+<div align="center">
+<img src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="850"/>
 </div>
 
 ---
