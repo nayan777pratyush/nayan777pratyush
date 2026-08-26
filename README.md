@@ -353,7 +353,7 @@ Next.js • Prisma • PostgreSQL • Better-Auth
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nayan777pratyush&theme=tokyo-night&hide_border=true"/>
+<img src="[https://github-readme-activity-graph.vercel.app/graph?username=nayan777pratyush&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph-eta-one.vercel.app/graph?username=nayan777pratyush&theme=tokyo-night&hide_border=true)"/>
 
 </div>
 
